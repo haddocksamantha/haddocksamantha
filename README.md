@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha Haddock
 - 👀 I’m interested in N/A
-- 🌱 I’m currently learning C#, Unity, Unreal Engine, Autodesk Maya, and Substance Painter
+- 🌱 I’m currently learning C#, Unity, Unreal Engine, Autodesk Maya, Houdini FX, and Substance Painter
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me 10911252@uvu.edu or haddock.samanthalilly@gmail.com
 
